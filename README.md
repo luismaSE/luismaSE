@@ -134,4 +134,8 @@ Mobile app that detects and segments food in photos and generates automated nutr
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luismaSE&theme=tokyonight" alt="Contributions" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/luismaSE/luismaSE/output/snake.svg" alt="Contribution snake" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:203a43,100:0f2027&height=120&section=footer&text=Let's%20build%20something%20together&fontSize=22&fontColor=ffffff&fontAlignY=70" alt="Footer" />
