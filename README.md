@@ -51,11 +51,11 @@ luisma:
 </tr>
 </table>
 
-## 🏗️ Work highlights
+## 🏗️ Highlights
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎥 Seatbelt Detection
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white)
@@ -63,7 +63,7 @@ luisma:
 Production computer vision system detecting seatbelt use from vehicle DVR footage, with batch video pipelines and backend orchestration.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🚌 Fleet Management SaaS
 ![.NET](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -71,7 +71,9 @@ Production computer vision system detecting seatbelt use from vehicle DVR footag
 Passenger management, trip scheduling, fleet tracking, route optimization and analytics. I lead its Clean Architecture backend.
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 AI Dev Automation
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -79,15 +81,22 @@ Passenger management, trip scheduling, fleet tracking, route optimization and an
 AI tooling for automated ticket fixes, PR generation, docs and CI/CD, for faster ticket resolution across the team.
 
 </td>
+<td width="50%" valign="top">
+
+### 🥗 NutriAI (thesis)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+Mobile app that detects and segments food in photos and generates automated nutritional reports.
+
+</td>
 </tr>
 </table>
 
-<sub>🔒 Built professionally, so the code is private.</sub>
+<sub>🔒 Private repositories.</sub>
 
 ## 🚀 Open-source projects
 
 <p align="center">
-  <a href="https://github.com/luismaSE/NutriAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luismaSE&repo=NutriAI&theme=tokyonight&hide_border=true&description_lines_count=2" alt="NutriAI" /></a>
   <a href="https://github.com/luismaSE/Document-Processing-Gateway-Challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luismaSE&repo=Document-Processing-Gateway-Challenge&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Document Processing Gateway" /></a>
   <a href="https://github.com/luismaSE/caelestia-wallpaper-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luismaSE&repo=caelestia-wallpaper-engine&theme=tokyonight&hide_border=true&description_lines_count=2" alt="caelestia-wallpaper-engine" /></a>
   <a href="https://github.com/luismaSE/caelestia-kde"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luismaSE&repo=caelestia-kde&theme=tokyonight&hide_border=true&description_lines_count=2" alt="caelestia-kde" /></a>
@@ -118,16 +127,12 @@ AI tooling for automated ticket fixes, PR generation, docs and CI/CD, for faster
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismaSE&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismaSE&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luismaSE&theme=tokyonight&utcOffset=-3" alt="Productive time" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luismaSE&theme=tokyonight" alt="Contributions" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/1E90FF/luismaSE" alt="Contribution chart" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:203a43,100:0f2027&height=120&section=footer&text=Let's%20build%20something%20together&fontSize=22&fontColor=ffffff&fontAlignY=70" alt="Footer" />
