@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luismaSE&label=Profile%20views&color=1E90FF&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/luismaSE?label=Followers&style=flat-square&color=1E90FF&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to-collaborations-2EA44F?style=flat-square" alt="Open to collaborations" />
 </p>
