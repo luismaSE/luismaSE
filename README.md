@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:1E90FF&height=200&section=header&text=Luisma%20Sarmiento%20Esquembre&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%C2%B7%20Backend%20%26%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:1E90FF&height=200&section=header&text=Luisma%20Sarmiento%20Esquembre&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%C2%B7%20Backend%20and%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="Header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Backend+architecture+%26+microservices;Computer+vision+%26+applied+AI;AI-assisted+engineering+automation;Based+in+Mendoza%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7" alt="Typing animation" />
