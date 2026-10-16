@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/luisma-saresq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://drive.google.com/file/d/1rF9cn3duZlVe8GQ0t3vtVLojGuHsAEa7/view?usp=sharing"><img src="https://img.shields.io/badge/CV-PDF-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"></a>
+  <a href="https://drive.google.com/file/d/1OxM8LeUKGyJVoT8N1LAkg3rgXmJh74iQ/view?usp=sharing"><img src="https://img.shields.io/badge/CV-PDF-2EA44F?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"></a>
   <a href="mailto:luisma.saresq@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://instagram.com/luisma.saresq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
